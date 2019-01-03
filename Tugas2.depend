@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542993150 source:e:\data d\data pb\tugas\tugas2\main.cpp
+	<stdio.h>
+	<conio.h>
+	<iostream>
+
